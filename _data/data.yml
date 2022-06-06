@@ -5,9 +5,9 @@ fork: true
 # Sidebar
 contact:
   email: sheik.ab70@gmail.com
-  github: abdullahsheik 
+  github: abdullahsheik
   linkedin: abdullahsheik
-  phone: 4039531786
+  phone: (403)-953-1786
   gitlab: 
   twitter: 
 
@@ -18,11 +18,11 @@ languages:
   - idiom: Hindi
 
 education:
-  - degree: M.Eng in Quality Systems
+  - degree: M.Engg in Quality Systems
     time: 2015-2017
     university: Concordia University
 
-  - degree: B.Eng in 
+  - degree: B.Engg in 
     Electronics & communications
     time: 2007-2011
     university: JNTU University
@@ -45,6 +45,7 @@ skills:
       - CICD
       - AWS EKS
       - AWS ECS
+
 
 # Profile
 profile: |
