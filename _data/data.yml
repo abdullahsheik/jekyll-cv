@@ -29,16 +29,19 @@ education:
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - SQL
+      - SAP
+      - SOQL
   - category: Frontend
     skill:
-      - React
-      - Typescript
+      - Python
+      - Javascript
   - category: DevOps
     skill:
       - Docker
-      - Kubernetes 
+      - Kubernetes
+      - Linux
+      - CICD
 
 # Profile
 profile: |
