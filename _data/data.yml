@@ -1,29 +1,30 @@
-name: John Doe
+name: Abdullah Sheik
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: sheik.ab70@gmail.com
+  github: abdullahsheik
+  linkedin: abdullahsheik
+  phone: (403)-953-1786
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Urdu
+  - idiom: Hindi
+  - idiom: Telugu
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Masters of Engineering in Quality Systems
+    time: 2015-2017
+    university: Concordia University
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: B.Engg in Electronics and communications
+    time: 2007-2011
+    university: JNTU University
 
 skills:
   - category: Backend
