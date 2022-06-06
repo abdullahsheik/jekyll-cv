@@ -15,9 +15,10 @@ languages:
   - idiom: English
   - idiom: Urdu
   - idiom: Telugu
+  - idiom: Hindi
 
 education:
-  - degree: Masters of Engineering in Quality Systems
+  - degree: M.Eng in Quality Systems
     time: 2015-2017
     university: Concordia University
 
@@ -41,6 +42,8 @@ skills:
       - Kubernetes
       - Linux
       - CICD
+      - AWS EKS
+      - AWS ECS
 
 # Profile
 profile: |
