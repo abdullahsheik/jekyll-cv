@@ -22,10 +22,13 @@ education:
     time: 2015-2017
     university: Concordia University
 
-  - degree: B.Engg in 
-    Electronics & communications
+  - degree: B.Engg in Electronics & communications
     time: 2007-2011
     university: JNTU University
+   
+  - degree: Applied DevOps Diploma
+    time: 2022-Present
+    university: Toronto Institute of Data Science and Technology
 
 skills:
   - category: Backend
@@ -38,18 +41,34 @@ skills:
       - Python
       - Javascript
   - category: DevOps
+    skills:
+  - category: Backend
+    skill: 
+      - SQL
+      - SAP
+      - SOQL
+   - category: Frontend
+    skill:
+      - Python
+      - Java
+      - Selenium
+  - category: Cloud
+    skill:
+      - Salesforce
+      - AWS
+  - category: DevOps
     skill:
       - Docker
       - Kubernetes
       - Linux
       - CICD
-      - AWS EKS
-      - AWS ECS
+      - Jenkins
+      - Git
 
 
 # Profile
 profile: |
-  This is a test. Write here
+  Around 5 years of experience in Quality Assurance with expertise in Manual Testing, Functional Automation, Mobile Automation, Build Deployment, and Continuous Integration with different applications. 
 
 # Experience
 experience:
